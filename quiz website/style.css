@@ -342,9 +342,9 @@ font-weight: 600;
     color: #fff;
 }
 
-.quiz-footer .next-btn.active:hover {
+.quiz-footer .next-btn:hover {
     background: #c40094;
-    color: #c40094;
+    color: #fafafa;
 }
 
 .quiz-section .result-box {
